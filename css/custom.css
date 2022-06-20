@@ -1,0 +1,50 @@
+.measure-wide {
+	max-width: 60em;
+	width: 60em;
+}
+
+h1 {
+	font-size: 3em;
+	font-family: montserrat;
+}
+
+.pv6-l {
+	padding-top: 6rem;
+	padding-bottom: 10rem;
+}
+
+.f-subheadline-l {
+	font-weight: 400;
+}
+
+.f3-l {
+	font-weight: 500;
+}
+
+.pr3 {
+	padding-right: 3rem;
+}
+
+#TableOfContents ul {
+    margin-bottom: 0em;
+    margin-top: 0.5em;
+}
+
+#TableOfContents ul li {
+    margin-top:0em;
+    margin-bottom:0.5em;
+}
+
+#TableOfContents ul li a {
+    text-decoration: none;
+    box-shadow: inset 0 0 0 0 #54b3d6;
+    color: #54b3d6;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+#TableOfContents ul li a:hover {
+  box-shadow: inset 200px 0 0 0 #54b3d6;
+  color: white;
+}
