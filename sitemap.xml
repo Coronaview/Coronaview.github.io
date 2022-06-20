@@ -2,15 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://coronaview.github.io/categories/</loc>
+    <loc>http://coronaview.github.io/insight/</loc>
+    <lastmod>2022-06-19T23:59:09-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://coronaview.github.io/</loc>
+    <lastmod>2022-06-19T23:59:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://coronaview.github.io/interview/</loc>
+    <lastmod>2022-06-19T23:58:03-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://coronaview.github.io/research/comparative-analysis/</loc>
+    <lastmod>2022-06-19T22:40:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://coronaview.github.io/research/</loc>
+    <lastmod>2022-06-19T22:40:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://coronaview.github.io/research/survey-2022/</loc>
+    <lastmod>2022-06-19T22:39:55-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://coronaview.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://coronaview.github.io/research/survey-2020/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
