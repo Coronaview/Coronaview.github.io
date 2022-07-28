@@ -12,11 +12,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://coronaview.github.io/interview/</loc>
-    <lastmod>2022-06-19T23:58:03-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://coronaview.github.io/research/comparative-analysis/</loc>
     <lastmod>2022-06-19T22:40:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -37,6 +32,14 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://coronaview.github.io/research/survey-2020/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://coronaview.github.io/interview/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://coronaview.github.io/interview/int1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
